@@ -1,0 +1,11 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "country list",
+  "main": "index.js",
+  "scripts": {
+    "test": "country list"
+  },
+  "author": "liny",
+  "license": "ISC"
+}
