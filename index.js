@@ -65,6 +65,31 @@ class Country {
         return this.UNCL[lang]
     }
 
+    getCountry(language, option) {
+        if (arguments.length === 0) {
+            return this.getCountryList()
+        }
+
+        if (arguments.length === 1) {
+            if (typeof language === 'string') {
+                return this.getCountryList(language)
+            }
+            if (typeof language === 'object') {
+                option = language
+                language = 'en'
+            }
+        }
+
+        const list = []
+        const lang = this.area2lang[language] || 'name'
+        for (let val of country) {
+            if (option.continent && option.continent !== val.continent) continue
+            if (option.type && option.type !== val.type) continue
+            list.push(val[lang])
+        }
+        return list
+    }
+
     getCountryByName(name, language) {
         const lang = this.area2lang[language] || 'name'
         const result = country[this.getQuickSearch()[lang][name]]

@@ -6,7 +6,7 @@
         "alpha_2": "AF",
         "alpha_3": "AFG",
         "numericCode": "004",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -16,7 +16,7 @@
         "alpha_2": "AL",
         "alpha_3": "ALB",
         "numericCode": "008",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -26,7 +26,7 @@
         "alpha_2": "DZ",
         "alpha_3": "DZA",
         "numericCode": "012",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -36,7 +36,7 @@
         "alpha_2": "AD",
         "alpha_3": "AND",
         "numericCode": "020",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -46,7 +46,7 @@
         "alpha_2": "AO",
         "alpha_3": "AGO",
         "numericCode": "024",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -56,7 +56,7 @@
         "alpha_2": "AG",
         "alpha_3": "ATG",
         "numericCode": "028",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -66,7 +66,7 @@
         "alpha_2": "AR",
         "alpha_3": "ARG",
         "numericCode": "032",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -76,7 +76,7 @@
         "alpha_2": "AM",
         "alpha_3": "ARM",
         "numericCode": "051",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -86,7 +86,7 @@
         "alpha_2": "AU",
         "alpha_3": "AUS",
         "numericCode": "036",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -96,7 +96,7 @@
         "alpha_2": "AT",
         "alpha_3": "AUT",
         "numericCode": "040",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -106,7 +106,7 @@
         "alpha_2": "AZ",
         "alpha_3": "AZE",
         "numericCode": "031",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -116,7 +116,7 @@
         "alpha_2": "BS",
         "alpha_3": "BHS",
         "numericCode": "044",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -126,7 +126,7 @@
         "alpha_2": "BH",
         "alpha_3": "BHR",
         "numericCode": "048",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -136,7 +136,7 @@
         "alpha_2": "BD",
         "alpha_3": "BGD",
         "numericCode": "050",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -146,7 +146,7 @@
         "alpha_2": "BB",
         "alpha_3": "BRB",
         "numericCode": "052",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -156,7 +156,7 @@
         "alpha_2": "BY",
         "alpha_3": "BLR",
         "numericCode": "112",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -166,7 +166,7 @@
         "alpha_2": "BE",
         "alpha_3": "BEL",
         "numericCode": "056",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -176,7 +176,7 @@
         "alpha_2": "BZ",
         "alpha_3": "BLZ",
         "numericCode": "084",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -186,7 +186,7 @@
         "alpha_2": "BZ",
         "alpha_3": "BEN",
         "numericCode": "204",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -196,7 +196,7 @@
         "alpha_2": "BT",
         "alpha_3": "BTN",
         "numericCode": "064",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -206,7 +206,7 @@
         "alpha_2": "BO",
         "alpha_3": "BOL",
         "numericCode": "068",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -216,7 +216,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -226,7 +226,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -236,7 +236,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -246,7 +246,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -256,7 +256,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -266,7 +266,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -276,7 +276,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -286,7 +286,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -296,7 +296,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -306,7 +306,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -316,7 +316,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -326,7 +326,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -336,7 +336,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -346,7 +346,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -356,7 +356,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -366,7 +366,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -376,7 +376,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -386,7 +386,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -396,7 +396,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -406,7 +406,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -416,7 +416,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -426,7 +426,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -436,7 +436,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -446,7 +446,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -456,7 +456,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -466,7 +466,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -476,7 +476,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -486,7 +486,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -496,7 +496,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -506,7 +506,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -516,7 +516,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -526,7 +526,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -536,7 +536,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -546,7 +546,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -556,7 +556,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -566,7 +566,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -576,7 +576,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -586,7 +586,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -596,7 +596,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -606,7 +606,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -616,7 +616,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -626,7 +626,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -636,7 +636,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -646,7 +646,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -656,7 +656,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -666,7 +666,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -676,7 +676,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -686,7 +686,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -696,7 +696,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -706,7 +706,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -716,7 +716,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -726,7 +726,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -736,7 +736,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -746,7 +746,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -756,7 +756,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -766,7 +766,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -776,7 +776,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -786,7 +786,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -796,7 +796,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -806,7 +806,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -816,7 +816,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -826,7 +826,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -836,7 +836,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -846,7 +846,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -856,7 +856,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -866,7 +866,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -876,7 +876,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -886,7 +886,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -896,7 +896,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -906,7 +906,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -916,7 +916,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -926,7 +926,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -936,7 +936,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -946,7 +946,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -956,7 +956,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -966,7 +966,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -976,7 +976,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -986,7 +986,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -996,7 +996,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1006,7 +1006,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1016,7 +1016,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1026,7 +1026,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1036,7 +1036,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1046,7 +1046,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1056,7 +1056,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1066,7 +1066,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1076,7 +1076,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1086,7 +1086,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1096,7 +1096,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1106,7 +1106,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1116,7 +1116,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1126,7 +1126,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1136,7 +1136,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1146,7 +1146,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1156,7 +1156,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1166,7 +1166,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1176,7 +1176,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1186,7 +1186,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1196,7 +1196,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1206,7 +1206,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1216,7 +1216,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1226,7 +1226,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1236,7 +1236,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1246,7 +1246,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1256,7 +1256,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1266,7 +1266,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1276,7 +1276,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1286,7 +1286,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1296,7 +1296,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1306,7 +1306,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1316,7 +1316,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1326,7 +1326,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1336,7 +1336,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1346,7 +1346,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -1356,7 +1356,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -1366,7 +1366,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1376,7 +1376,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1386,7 +1386,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1396,7 +1396,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1406,7 +1406,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1416,7 +1416,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1426,7 +1426,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1436,7 +1436,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1446,7 +1446,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1456,7 +1456,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1466,7 +1466,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1476,7 +1476,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1486,7 +1486,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1496,7 +1496,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1506,7 +1506,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1516,7 +1516,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1526,7 +1526,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1536,7 +1536,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1546,7 +1546,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1556,7 +1556,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1566,7 +1566,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1576,7 +1576,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1586,7 +1586,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1596,7 +1596,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1606,7 +1606,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1616,7 +1616,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1626,7 +1626,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1636,7 +1636,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1646,7 +1646,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1656,7 +1656,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -1666,7 +1666,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1676,7 +1676,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1686,7 +1686,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1696,7 +1696,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1706,7 +1706,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1716,7 +1716,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1726,7 +1726,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1736,7 +1736,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1746,7 +1746,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1756,7 +1756,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1766,7 +1766,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1776,7 +1776,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1786,7 +1786,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1796,7 +1796,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1806,7 +1806,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1816,7 +1816,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1826,7 +1826,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1836,7 +1836,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1846,7 +1846,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1856,7 +1856,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "UNSC"
     },
     {
@@ -1866,7 +1866,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -1876,7 +1876,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1886,7 +1886,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "UNSC"
     },
     {
@@ -1896,7 +1896,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "UNSC"
     },
     {
@@ -1906,7 +1906,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "UNSC"
     },
     {
@@ -1916,7 +1916,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1926,7 +1926,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "UNSC"
     },
     {
@@ -1936,7 +1936,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1946,7 +1946,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "UNSC"
     },
     {
@@ -1956,7 +1956,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "NUNC"
     },
     {
@@ -1966,7 +1966,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "NUNC"
     },
     {
@@ -1976,7 +1976,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "NUNC"
     },
     {
@@ -1986,7 +1986,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "NUNC"
     },
     {
@@ -1996,7 +1996,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "NUNC"
     },
     {
@@ -2006,7 +2006,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "NUNC"
     },
     {
@@ -2016,7 +2016,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "NUNC"
     },
     {
@@ -2026,7 +2026,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "NUNC"
     },
     {
@@ -2036,7 +2036,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "NUNC"
     },
     {
@@ -2046,7 +2046,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "NUNC"
     },
     {
@@ -2056,7 +2056,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "NUNC"
     },
     {
@@ -2066,7 +2066,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "NUNC"
     },
     {
@@ -2076,7 +2076,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AF",
+        "continent": "AF",
         "type": "NUNC"
     },
     {
@@ -2086,7 +2086,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2096,7 +2096,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2106,7 +2106,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2116,7 +2116,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AN",
+        "continent": "AN",
         "type": "ODOSAA"
     },
     {
@@ -2126,7 +2126,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2136,7 +2136,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2146,7 +2146,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2156,7 +2156,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "ODOSAA"
     },
     {
@@ -2166,7 +2166,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "ODOSAA"
     },
     {
@@ -2176,7 +2176,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2186,7 +2186,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "SA",
+        "continent": "SA",
         "type": "ODOSAA"
     },
     {
@@ -2196,7 +2196,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2206,7 +2206,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "OA",
+        "continent": "OA",
         "type": "ODOSAA"
     },
     {
@@ -2216,7 +2216,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2226,7 +2226,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2236,7 +2236,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2246,7 +2246,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2256,7 +2256,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2266,7 +2266,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "ODOSAA"
     },
     {
@@ -2276,7 +2276,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2286,7 +2286,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "EU",
+        "continent": "EU",
         "type": "ODOSAA"
     },
     {
@@ -2296,7 +2296,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "AS",
+        "continent": "AS",
         "type": "ODOSAA"
     },
     {
@@ -2306,7 +2306,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "NA",
+        "continent": "NA",
         "type": "ODOSAA"
     },
     {
@@ -2316,7 +2316,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2326,7 +2326,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2336,7 +2336,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2346,7 +2346,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2356,7 +2356,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2366,7 +2366,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2376,7 +2376,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2386,7 +2386,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2396,7 +2396,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2406,7 +2406,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2416,7 +2416,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2426,7 +2426,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2436,7 +2436,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2446,7 +2446,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2456,7 +2456,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2466,7 +2466,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2476,7 +2476,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2486,7 +2486,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2496,7 +2496,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2506,7 +2506,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2516,7 +2516,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2526,7 +2526,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2536,7 +2536,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     },
     {
@@ -2546,7 +2546,7 @@
         "alpha_2": "",
         "alpha_3": "",
         "numericCode": "",
-        "continents": "",
+        "continent": "",
         "type": "ODOSAA"
     }
 ]
