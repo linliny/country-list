@@ -5,8 +5,8 @@
 ``` js
 var countries = require('country-list-l');
 
-console.log(countries.getCountryList().length); // Iceland
-console.log(countries.getCountryByName('China')); // IS
+console.log(countries.getCountryList().length); 
+console.log(countries.getCountryByName('China')); 
 ```
 
 lang: 默认英文，简体-'cn'，繁体-'tc'
