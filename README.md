@@ -13,16 +13,24 @@ lang: 默认英文，简体-'cn'，繁体-'tc'
 
 ## Methods
 
-### getCountry(lang,option)
+### getCountries(lang,option)
 
 获取国家或地区列表
 
-#### option --> {continent:'',type:''}  提供条件查询
+#### option --> {continent:'',type:''}  当前提供查询条件
 - continent(大洲): AS(亚洲) | AF(非洲) | EU(欧洲) | NA(北美洲) | SA(南美洲) | OA(大洋洲) | AN(南极洲)
 - type(国家类型): UNSC(联合国系统国家) | NUNC(非联合国系统国家) | ODOSAA(海外属地与其他特殊政区)
 
 ``` js
 country.getCountry('cn', { continent: 'AS', type: 'UNSC' }); 
+```
+
+### getCountryListKV(key,value)
+
+返回一个自定义键值对的对象(参数列表：['name', 'traditionalName', 'chineseName', 'alpha_2', 'alpha_3', 'numericCode'])
+
+``` js
+country.getCountryListKV('alpha_3', 'chineseName'); // {AFG: '阿富汗', ALB: '阿尔巴尼亚', DZA: '阿尔及利亚' ...}  
 ```
 
 ### getCountryList(lang)
@@ -35,7 +43,7 @@ country.getCountry('cn', { continent: 'AS', type: 'UNSC' });
 
 ### getCountryByName(name,lang)
 
-通过国家名称查询国家信息
+通过国家名称查询国家信息，默认英文，可以指定语言
 
 ## Install
 

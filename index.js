@@ -65,7 +65,7 @@ class Country {
         return this.UNCL[lang]
     }
 
-    getCountry(language, option) {
+    getCountries(language, option) {
         if (arguments.length === 0) {
             return this.getCountryList()
         }
@@ -88,6 +88,20 @@ class Country {
             list.push(val[lang])
         }
         return list
+    }
+
+    getCountryListKV(key, value) {
+        const checkArr = ['name', 'traditionalName', 'chineseName', 'alpha_2', 'alpha_3', 'numericCode']
+        if (!checkArr.includes(key) || !checkArr.includes(value)) return 'invalid key or value'
+
+        let obj = {}
+        for (let val of country) {
+            if (val[key]) {
+                obj[val[key]] = val[value] || ''
+            }
+        }
+
+        return obj
     }
 
     getCountryByName(name, language) {
