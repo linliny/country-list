@@ -22,7 +22,7 @@ class Country {
             const findByCn = {}
             const findByTc = {}
             for (let i = 0, n = country.length; i < n; i++) {
-                findByEn[country[i].name] = i
+                findByEn[country[i].name.replace(/\s*/g, '').toLowerCase()] = i
                 findByCn[country[i].chineseName] = i
                 findByTc[country[i].traditionalName] = i
             }
@@ -106,8 +106,8 @@ class Country {
 
     getCountryByName(name, language) {
         const lang = this.area2lang[language] || 'name'
-        const result = country[this.getQuickSearch()[lang][name]]
-        return result || 'not exist'
+        const result = country[this.getQuickSearch()[lang][name.replace(/\s*/g, '').toLowerCase()]]
+        return result || {}
     }
 }
 
