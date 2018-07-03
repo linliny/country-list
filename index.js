@@ -18,19 +18,16 @@ class Country {
 
     getQuickSearch() {
         if (!this.quickSearch) {
-            const findByEn = {}
-            const findByCn = {}
-            const findByTc = {}
+            const quick = {}
             for (let i = 0, n = country.length; i < n; i++) {
-                findByEn[country[i].name.replace(/\s*/g, '').toLowerCase()] = i
-                findByCn[country[i].chineseName] = i
-                findByTc[country[i].traditionalName] = i
+                quick[country[i].name.replace(/\s*/g, '').toLowerCase()] = i
+                quick[country[i].chineseName] = i
+                quick[country[i].traditionalName] = i
+                if (country[i].otherName) {
+                    for (let oname of country[i].otherName) quick[oname.replace(/\s*/g, '').toLowerCase()] = i
+                }
             }
-            this.quickSearch = {
-                chineseName: findByCn,
-                name: findByEn,
-                traditionalName: findByTc
-            }
+            this.quickSearch = quick
         }
         return this.quickSearch
     }
@@ -104,10 +101,9 @@ class Country {
         return obj
     }
 
-    getCountryByName(name, language) {
-        const lang = this.area2lang[language] || 'name'
-        const result = country[this.getQuickSearch()[lang][name.replace(/\s*/g, '').toLowerCase()]]
-        return result || {}
+    getCountryByName(name) {
+        const result = country[this.getQuickSearch()[name.replace(/\s*/g, '').toLowerCase()]]
+        return result || ''
     }
 }
 

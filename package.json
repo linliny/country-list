@@ -1,6 +1,6 @@
 {
   "name": "country-list-l",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "description": "country list",
   "main": "index.js",
   "scripts": {
