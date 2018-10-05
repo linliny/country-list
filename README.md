@@ -1,4 +1,4 @@
-# country-list（中文简体，中文繁体）
+# country-list（中文简体，中文繁体）(可以直接复制country.json自己玩)
 
 ## Example
 
