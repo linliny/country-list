@@ -62,7 +62,7 @@ class Country {
         return this.UNCL[lang]
     }
 
-    getCountries(language, option) {
+    getCountries(languag, option) {
         if (arguments.length === 0) {
             return this.getCountryList()
         }
