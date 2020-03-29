@@ -37,10 +37,6 @@ countries.getCountryListKV('alpha_3', 'chineseName'); // {AFG: '阿富汗', ALB:
 
 返回所有国家和地区列表
 
-### getUNCountryList(lang)
-
-返回所有国家列表（联合国会员国）
-
 ### getCountryByName(name)
 
 通过国家名称查询国家信息

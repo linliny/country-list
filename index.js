@@ -1,110 +1,74 @@
 const country = require('./country.json')
 
-class Country {
-    constructor() {
-        this.area2lang = {
-            cn: 'chineseName',
-            tc: 'traditionalName',
-            en: 'name'
-        }
-    }
-
-    static getInstance() {
-        if (!this.instance) {
-            this.instance = new Country()
-        }
-        return this.instance
-    }
-
-    getQuickSearch() {
-        if (!this.quickSearch) {
-            const quick = {}
-            for (let i = 0, n = country.length; i < n; i++) {
-                quick[country[i].name.replace(/\s*/g, '').toLowerCase()] = i
-                quick[country[i].chineseName] = i
-                quick[country[i].traditionalName] = i
-                if (country[i].otherName) {
-                    for (let oname of country[i].otherName) quick[oname.replace(/\s*/g, '').toLowerCase()] = i
-                }
-            }
-            this.quickSearch = quick
-        }
-        return this.quickSearch
-    }
-
-    getCountryList(language) {
-        if (!this.countryList) this.countryList = {}
-
-        const lang = this.area2lang[language] || 'name'
-        if (!this.countryList[lang]) {
-            const list = []
-            for (let val of country) {
-                list.push(val[lang])
-            }
-            this.countryList[lang] = list
-        }
-
-        return this.countryList[lang]
-    }
-
-    getUNCountryList(language) {
-        if (!this.UNCL) this.UNCL = {}
-
-        const lang = this.area2lang[language] || 'name'
-        if (!this.UNCL[lang]) {
-            const list = []
-            for (let val of country) {
-                if (val.type === 'UNSC') list.push(val[lang])
-            }
-            this.UNCL[lang] = list
-        }
-
-        return this.UNCL[lang]
-    }
-
-    getCountries(languag, option) {
-        if (arguments.length === 0) {
-            return this.getCountryList()
-        }
-
-        if (arguments.length === 1) {
-            if (typeof language === 'string') {
-                return this.getCountryList(language)
-            }
-            if (typeof language === 'object') {
-                option = language
-                language = 'en'
-            }
-        }
-
-        const list = []
-        const lang = this.area2lang[language] || 'name'
-        for (let val of country) {
-            if (option.continent && option.continent !== val.continent) continue
-            if (option.type && option.type !== val.type) continue
-            list.push(val[lang])
-        }
-        return list
-    }
-
-    getCountryListKV(key, value) {
-        const checkArr = ['name', 'traditionalName', 'chineseName', 'alpha_2', 'alpha_3', 'numericCode']
-        if (!checkArr.includes(key) || !checkArr.includes(value)) return 'invalid key or value'
-
-        let obj = {}
-        for (let val of country) {
-            if (val[key]) {
-                obj[val[key]] = val[value] || ''
-            }
-        }
-
-        return obj
-    }
-
-    getCountryByName(name) {
-        const result = country[this.getQuickSearch()[name.replace(/\s*/g, '').toLowerCase()]]
-        return result || ''
-    }
+const quickSearch = {};
+const area2lang = {
+    cn: 'chineseName',
+    tc: 'traditionalName',
+    en: 'name'
 }
 
-module.exports = Country.getInstance()
+exports.getCountryByName = (name) => {
+    if (Object.keys(quickSearch).length === 0) {
+        for (let i = 0, n = country.length; i < n; i++) {
+            quickSearch[country[i].name.replace(/\s*/g, '').toLowerCase()] = i
+            quickSearch[country[i].chineseName] = i
+            quickSearch[country[i].traditionalName] = i
+            if (country[i].otherName) {
+                for (const oname of country[i].otherName) quickSearch[oname.replace(/\s*/g, '').toLowerCase()] = i
+            }
+        }
+    }
+    const result = country[quickSearch[name.replace(/\s*/g, '').toLowerCase()]]
+    return result || ''
+}
+
+exports.getCountryList = getCountryList = (language) => {
+    const lang = area2lang[language] || 'name'
+    const list = country.map(val => val[lang])
+    return list
+}
+
+exports.getCountries = (...arg) => {
+    if (arg.length === 0) {
+        return getCountryList()
+    }
+
+    let language, option;
+    if (arg.length === 1) {
+        if (typeof arg[0] === 'string') {
+            return getCountryList(language)
+        }
+        if (typeof arg[0] === 'object') {
+            option = arg[0]
+            language = 'en'
+        }
+    } else {
+        language = arg[0]
+        option = arg[1]
+    }
+
+    const list = []
+    const lang = area2lang[language] || 'name'
+
+    for (const val of country) {
+        if (option.continent && option.continent !== val.continent) continue
+        if (option.type && option.type !== val.type) continue
+        list.push(val[lang])
+    }
+
+    return list
+}
+
+exports.getCountryListKV = (key, value) => {
+    const checkArr = ['name', 'traditionalName', 'chineseName', 'alpha_2', 'alpha_3', 'numericCode']
+    if (!checkArr.includes(key) || !checkArr.includes(value)) throw new Error('invalid key or value to search country')
+
+    const obj = {}
+    for (const val of country) {
+        if (val[key]) {
+            obj[val[key]] = val[value] || ''
+        }
+    }
+
+    return obj
+}
